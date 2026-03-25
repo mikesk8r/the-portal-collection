@@ -18,7 +18,7 @@ The models are split into the following categories:
 
 Most of these models are also available standalone on [Sketchfab](https://sketchfab.com/Sam54123/collections/the-portal-collection-5d6c5ab6c268450e9768a94c4b052197).
 
-> ***Disclaimer:*** *These are fan models, and are in no way affiliated with Valve. While I take no issue with them being used commercially (given antiquate credit), I take no responsibility for any legal action incurred from Valve.*
+> ***Disclaimer:*** *These are fan models, and are in no way affiliated with Valve. While I take no issue with them being used commercially (given adequate credit), I take no responsibility for any legal action incurred from Valve.*
 
 ## Unit Scale
 
